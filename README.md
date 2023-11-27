@@ -22,8 +22,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:T.Thrinesh Royal
+### Register Number:23004810
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
